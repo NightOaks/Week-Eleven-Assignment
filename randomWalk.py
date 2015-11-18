@@ -1,5 +1,7 @@
+# Devin Simoneaux
+# Week 11 Assignment
+#CIS-125
 # Basic Structure for a Random Walk simulation
-# Dan Neumann
 '''
 
 You flip a coin.
